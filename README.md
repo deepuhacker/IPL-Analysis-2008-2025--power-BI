@@ -51,3 +51,5 @@ When a specific season is selected via a slicer/filter, display a Points Table t
 - No Result: Matches with no result (eg, rain-affected).
 - Tie: Matches that ended in a tie.
 - Total Points: Calculated using standard IPL points rules:(Total Points = (Win x 2)+(Ties x 1) + (No Result X 1).
+  ## Dashboard
+  
