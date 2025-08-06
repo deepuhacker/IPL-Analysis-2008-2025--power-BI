@@ -39,7 +39,6 @@ A key business requirement is to enable users to select any season using a slice
 - Total Six's in the season
 - Team Name the player represented
 - Player Image (dynamically rendered)
-- 
 ## Points Table
 When a specific season is selected via a slicer/filter, display a Points Table that includes the following dynamic fields for each team:
 |Logo | Teart Name | Matches Played | Worn |Lost | No Result | Tie | Total Points |
