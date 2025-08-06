@@ -52,4 +52,4 @@ When a specific season is selected via a slicer/filter, display a Points Table t
 - Tie: Matches that ended in a tie.
 - Total Points: Calculated using standard IPL points rules:(Total Points = (Win x 2)+(Ties x 1) + (No Result X 1).
   ## Dashboard
-  
+  ![Superstore Sales Analysis Dashboard](https://github.com/deepuhacker/IPL-Analysis-2008-2025--power-BI/blob/main/IPL%20analysis%202008-2925.png)
